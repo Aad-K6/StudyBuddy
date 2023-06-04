@@ -1,2 +1,2 @@
 # StudyBuddy
-Intelligent PDF analysis and summarization application
+Intelligent PDF analysis and summarization application. Includes AI presentation generator.
